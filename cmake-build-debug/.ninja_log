@@ -1,0 +1,8 @@
+# ninja log v5
+4	508	6904033283520647	CMakeFiles/data_structures.dir/Array.cpp.obj	1f6845423592fdac
+12	496	6904550296048153	CMakeFiles/data_structures.dir/LinkedList/LinkedList.cpp.obj	611b85485114d097
+18	519	6904550296299008	CMakeFiles/data_structures.dir/Array/Array.cpp.obj	e4b953ed6db67ac0
+6	488	6904550295969673	CMakeFiles/data_structures.dir/main.cpp.obj	fc4ee2eda71b5e16
+5	404	6904530892047529	CMakeFiles/data_structures.dir/LinkedList.cpp.obj	ed4fb495bd0d9933
+520	642	6904550297498098	data_structures.exe	a2dc54dbdc26d639
+1	253	6915114730680569	build.ninja	b6b9b2922fccd2c6
