@@ -2,8 +2,7 @@
 // Created by Ritik on 17-11-2022.
 //
 
-#include "Array.h"
-#include <iostream>
+#include "../Array.h"
 #include <ostream>
 using namespace std;
 
@@ -72,8 +71,12 @@ int Array::getItem(int index) {
 
 
 ostream &operator<<(ostream &stream,  Array &array) {
+    cout << "[";
     for (int i = 0; i < array.size(); ++i) {
-        stream << array.getItem(i) << " ";
+        if(i != array.size()-1)
+            stream << array.getItem(i) << ", ";
+        else stream << array.getItem(i);
     }
+    cout << "]";
     return stream;
 }

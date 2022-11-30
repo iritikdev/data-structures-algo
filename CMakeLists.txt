@@ -3,4 +3,4 @@ project(data_structures)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(data_structures main.cpp Array/Array.cpp Array/Array.h LinkedList/LinkedList.cpp LinkedList/LinkedList.h)
+add_executable(data_structures main.cpp Array/Array.cpp Array.h LinkedList/LinkedList.cpp LinkedList.h)

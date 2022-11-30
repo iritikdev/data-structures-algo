@@ -1,8 +1,20 @@
 # ninja log v5
-4	508	6904033283520647	CMakeFiles/data_structures.dir/Array.cpp.obj	1f6845423592fdac
-12	496	6904550296048153	CMakeFiles/data_structures.dir/LinkedList/LinkedList.cpp.obj	611b85485114d097
 18	519	6904550296299008	CMakeFiles/data_structures.dir/Array/Array.cpp.obj	e4b953ed6db67ac0
+12	496	6904550296048153	CMakeFiles/data_structures.dir/LinkedList/LinkedList.cpp.obj	611b85485114d097
+4	508	6904033283520647	CMakeFiles/data_structures.dir/Array.cpp.obj	1f6845423592fdac
 6	488	6904550295969673	CMakeFiles/data_structures.dir/main.cpp.obj	fc4ee2eda71b5e16
-5	404	6904530892047529	CMakeFiles/data_structures.dir/LinkedList.cpp.obj	ed4fb495bd0d9933
 520	642	6904550297498098	data_structures.exe	a2dc54dbdc26d639
-1	253	6915114730680569	build.ninja	b6b9b2922fccd2c6
+5	404	6904530892047529	CMakeFiles/data_structures.dir/LinkedList.cpp.obj	ed4fb495bd0d9933
+1	253	6915142798008365	build.ninja	b6b9b2922fccd2c6
+2	260	6915142798008365	build.ninja	b6b9b2922fccd2c6
+4	540	6915142804484591	CMakeFiles/data_structures.dir/main.cpp.obj	fc4ee2eda71b5e16
+8	542	6915142804494616	CMakeFiles/data_structures.dir/Array/Array.cpp.obj	e4b953ed6db67ac0
+542	1068	6915142809663071	data_structures.exe	a2dc54dbdc26d639
+4	393	6915143618614269	CMakeFiles/data_structures.dir/Array/Array.cpp.obj	e4b953ed6db67ac0
+394	539	6915143620017664	data_structures.exe	a2dc54dbdc26d639
+4	380	6915144125534197	CMakeFiles/data_structures.dir/Array/Array.cpp.obj	e4b953ed6db67ac0
+381	493	6915144126622366	data_structures.exe	a2dc54dbdc26d639
+4	390	6915144250485056	CMakeFiles/data_structures.dir/Array/Array.cpp.obj	e4b953ed6db67ac0
+390	562	6915144252151067	data_structures.exe	a2dc54dbdc26d639
+4	408	6915144799607040	CMakeFiles/data_structures.dir/Array/Array.cpp.obj	e4b953ed6db67ac0
+409	543	6915144800913863	data_structures.exe	a2dc54dbdc26d639

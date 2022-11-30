@@ -2,7 +2,7 @@
 // Created by Ritik on 18-11-2022.
 //
 
-#include "LinkedList.h"
+#include "../LinkedList.h"
 #include <iostream>
 using namespace std;
 
